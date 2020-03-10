@@ -1,0 +1,3217 @@
+{
+    "Items": [
+        {
+            "formatKey": "7",
+            "formatName": "Exp Date and Lot"
+        },
+        {
+            "formatKey": "8",
+            "formatName": "Nutrilite Master Shipper"
+        },
+        {
+            "formatKey": "9",
+            "formatName": "Exp and Lot #"
+        },
+        {
+            "formatKey": "10",
+            "formatName": "Mfg and Lot#"
+        },
+        {
+            "formatKey": "14",
+            "formatName": "Exp and Lot#"
+        },
+        {
+            "formatKey": "15",
+            "formatName": "Use By and (B)Lot#"
+        },
+        {
+            "formatKey": "17",
+            "formatName": "Exp and Lot#"
+        },
+        {
+            "formatKey": "19",
+            "formatName": "BEST BEFORE\" EXP and Lot#\""
+        },
+        {
+            "formatKey": "21",
+            "formatName": "VAL Exp, LOTE 8Lot, FAB Mfg"
+        },
+        {
+            "formatKey": "23",
+            "formatName": "Lot# and Exp"
+        },
+        {
+            "formatKey": "26",
+            "formatName": "Lot# and Exp"
+        },
+        {
+            "formatKey": "29",
+            "formatName": "Exp, Lot#, Mfg"
+        },
+        {
+            "formatKey": "30",
+            "formatName": "Exp oldest component, Lot#"
+        },
+        {
+            "formatKey": "32",
+            "formatName": "Lot#"
+        },
+        {
+            "formatKey": "34",
+            "formatName": "Exp for 3 components and Lot#"
+        },
+        {
+            "formatKey": "37",
+            "formatName": "EXP/TETT Date and LOT/PLot#"
+        },
+        {
+            "formatKey": "40",
+            "formatName": "Spanish-Lot#, Exp date, Mfg Date"
+        },
+        {
+            "formatKey": "44",
+            "formatName": "Expiration Date of oldest component and Lot#"
+        },
+        {
+            "formatKey": "50",
+            "formatName": "Item# and Lot #"
+        },
+        {
+            "formatKey": "52",
+            "formatName": "Nutrilite Master Shipper / The Perfect Pack\"\""
+        },
+        {
+            "formatKey": "53",
+            "formatName": "Exp Date of Oldest Component and Lot#"
+        },
+        {
+            "formatKey": "54",
+            "formatName": "Lot3 and Expiration Date"
+        },
+        {
+            "formatKey": "59",
+            "formatName": "Lot#, Mfg, and Exp"
+        },
+        {
+            "formatKey": "60",
+            "formatName": "lot, mfg date of oldst comp,exp date of oldst comp"
+        },
+        {
+            "formatKey": "61",
+            "formatName": "Lot#,Mfg and Exp of oldest components"
+        },
+        {
+            "formatKey": "63",
+            "formatName": "Expiration of oldest component and Lot#"
+        },
+        {
+            "formatKey": "64",
+            "formatName": "Master Pack Qty, Item#, Lot#"
+        },
+        {
+            "formatKey": "73",
+            "formatName": "Blank Line, 7 Digit Lot #"
+        },
+        {
+            "formatKey": "80",
+            "formatName": "SKUSuffix and Lot#"
+        },
+        {
+            "formatKey": "81",
+            "formatName": "Lot#, mfg, mfg (two different formats)"
+        },
+        {
+            "formatKey": "82",
+            "formatName": "Item Number,Blank and Lot#"
+        },
+        {
+            "formatKey": "91",
+            "formatName": "Lot#"
+        },
+        {
+            "formatKey": "93",
+            "formatName": "Blank Line, Lot# and MFG"
+        },
+        {
+            "formatKey": "94",
+            "formatName": "Item#, Product Name, Lot#"
+        },
+        {
+            "formatKey": "97",
+            "formatName": "Item#,Lot#, and MFG"
+        },
+        {
+            "formatKey": "108",
+            "formatName": "Lot# and Mfg"
+        },
+        {
+            "formatKey": "117",
+            "formatName": "Lot#, MFG"
+        },
+        {
+            "formatKey": "120",
+            "formatName": "Lot#, Exp"
+        },
+        {
+            "formatKey": "121",
+            "formatName": "Lot#, Mfg"
+        },
+        {
+            "formatKey": "122",
+            "formatName": "Lot#, Mfg"
+        },
+        {
+            "formatKey": "123",
+            "formatName": "Contract Lot#-Exp"
+        },
+        {
+            "formatKey": "124",
+            "formatName": "Contract Lot#, EXP,Lot#"
+        },
+        {
+            "formatKey": "141",
+            "formatName": "Price,Lot# & Exp, Item#"
+        },
+        {
+            "formatKey": "142",
+            "formatName": "2\"",
+            "undefined": " Lot# & Mfg\""
+        },
+        {
+            "formatKey": "161",
+            "formatName": "Mfg, Exp minus 1 day, Lot#"
+        },
+        {
+            "formatKey": "173",
+            "formatName": "Item#, Lot#, Qty"
+        },
+        {
+            "formatKey": "174",
+            "formatName": "Spanish,Lot#,Exp,Mfg"
+        },
+        {
+            "formatKey": "178",
+            "formatName": "lot, exp date"
+        },
+        {
+            "formatKey": "179",
+            "formatName": "Oldest Component Exp, Lot#"
+        },
+        {
+            "formatKey": "181",
+            "formatName": "Open"
+        },
+        {
+            "formatKey": "182",
+            "formatName": "SKU,Lot#,Qty"
+        },
+        {
+            "formatKey": "197",
+            "formatName": "Exp Date,Lot#, Mfg Date"
+        },
+        {
+            "formatKey": "198",
+            "formatName": "Exp Date,Lot#"
+        },
+        {
+            "formatKey": "202",
+            "formatName": "Lot#,Mfg"
+        },
+        {
+            "formatKey": "205",
+            "formatName": "Lot#, Exp"
+        },
+        {
+            "formatKey": "216",
+            "formatName": "Lot#,Mfg"
+        },
+        {
+            "formatKey": "217",
+            "formatName": "Lot#,Mfg"
+        },
+        {
+            "formatKey": "218",
+            "formatName": "Lot#"
+        },
+        {
+            "formatKey": "219",
+            "formatName": "Lot#,mfg"
+        },
+        {
+            "formatKey": "222",
+            "formatName": "Item,Desriptions,Lot# qty,Lot# Mfg,blank"
+        },
+        {
+            "formatKey": "224",
+            "formatName": "Item#,Lot#,Qty,Exp,Blank,Blank"
+        },
+        {
+            "formatKey": "226",
+            "formatName": "Lot#,Mfg"
+        },
+        {
+            "formatKey": "227",
+            "formatName": "Lot#,Mfg"
+        },
+        {
+            "formatKey": "228",
+            "formatName": "Lot#,Mfg,Mfg"
+        },
+        {
+            "formatKey": "230",
+            "formatName": "Lot#,Mfg,Price"
+        },
+        {
+            "formatKey": "234",
+            "formatName": "item#,Description,Lot#,Qty,blank,blank"
+        },
+        {
+            "formatKey": "235",
+            "formatName": "Item#,Lot#,Qt,Wt,Blank,Blank"
+        },
+        {
+            "formatKey": "236",
+            "formatName": "Mfg,Exp,Lot#"
+        },
+        {
+            "formatKey": "241",
+            "formatName": "Item#,Lot#,Qty,Wt,blank,blank"
+        },
+        {
+            "formatKey": "242",
+            "formatName": "Lot#,Item#,blank,blank,blank,blank"
+        },
+        {
+            "formatKey": "247",
+            "formatName": "Lot#,Exp"
+        },
+        {
+            "formatKey": "248",
+            "formatName": "Mfg,Lot#"
+        },
+        {
+            "formatKey": "250",
+            "formatName": "Lot#,Mfg,Price"
+        },
+        {
+            "formatKey": "252",
+            "formatName": "Lot#,Mfg"
+        },
+        {
+            "formatKey": "255",
+            "formatName": "Sku, qty, lot"
+        },
+        {
+            "formatKey": "267",
+            "formatName": "Qty,Item#,Lot#"
+        },
+        {
+            "formatKey": "290",
+            "formatName": "Item#,Exp,Lot#"
+        },
+        {
+            "formatKey": "441",
+            "formatName": "Mfg,lot"
+        },
+        {
+            "formatKey": "442",
+            "formatName": "Exp,lot"
+        },
+        {
+            "formatKey": "443",
+            "formatName": "Lot,Exp"
+        },
+        {
+            "formatKey": "444",
+            "formatName": "Lot,Mfg"
+        },
+        {
+            "formatKey": "446",
+            "formatName": "Lot"
+        },
+        {
+            "formatKey": "447",
+            "formatName": "Lot,Mfg"
+        },
+        {
+            "formatKey": "448",
+            "formatName": "Lot,Exp"
+        },
+        {
+            "formatKey": "449",
+            "formatName": "Exp,Lot"
+        },
+        {
+            "formatKey": "450",
+            "formatName": "Lot,Exp"
+        },
+        {
+            "formatKey": "472",
+            "formatName": "Item,shade,lot,mfg"
+        },
+        {
+            "formatKey": "474",
+            "formatName": "Item,Shade,Lot,Mfg"
+        },
+        {
+            "formatKey": "475",
+            "formatName": "Item,Shade,lot,Mfg"
+        },
+        {
+            "formatKey": "476",
+            "formatName": "Item,shade,lot,mfg"
+        },
+        {
+            "formatKey": "477",
+            "formatName": "Item,shade,lot,mfg"
+        },
+        {
+            "formatKey": "478",
+            "formatName": "Item,shade,lot,mfg"
+        },
+        {
+            "formatKey": "479",
+            "formatName": "Item,shade,lot,mfg"
+        },
+        {
+            "formatKey": "480",
+            "formatName": "Item,Shade,lot,mfg"
+        },
+        {
+            "formatKey": "481",
+            "formatName": "Item,shade,lot,mfg"
+        },
+        {
+            "formatKey": "483",
+            "formatName": "Item,shade,lot,mfg"
+        },
+        {
+            "formatKey": "484",
+            "formatName": "Item,Shade,Lot,mfg"
+        },
+        {
+            "formatKey": "489",
+            "formatName": "item,Lot#,qty"
+        },
+        {
+            "formatKey": "490",
+            "formatName": "Description,Lot,Item#,Exp"
+        },
+        {
+            "formatKey": "491",
+            "formatName": "Description,Lot#,Item#,Exp"
+        },
+        {
+            "formatKey": "492",
+            "formatName": "Description,Lot,Item,Exp"
+        },
+        {
+            "formatKey": "495",
+            "formatName": "Lot,Exp"
+        },
+        {
+            "formatKey": "499",
+            "formatName": "Lot,Mfg"
+        },
+        {
+            "formatKey": "500",
+            "formatName": "Description,Lot,Item,Exp"
+        },
+        {
+            "formatKey": "590",
+            "formatName": "lot,mfg,price"
+        },
+        {
+            "formatKey": "591",
+            "formatName": "lot,mfg,mfg"
+        },
+        {
+            "formatKey": "592",
+            "formatName": "lot,exp,mfg"
+        },
+        {
+            "formatKey": "593",
+            "formatName": "lot.mfg,mfg"
+        },
+        {
+            "formatKey": "594",
+            "formatName": "lot,exp"
+        },
+        {
+            "formatKey": "595",
+            "formatName": "lot,mfg,mfg"
+        },
+        {
+            "formatKey": "596",
+            "formatName": "mfg,lot"
+        },
+        {
+            "formatKey": "598",
+            "formatName": "lot,mfg,mfg"
+        },
+        {
+            "formatKey": "599",
+            "formatName": "lot,mfg,price"
+        },
+        {
+            "formatKey": "600",
+            "formatName": "lot,mfg,exp"
+        },
+        {
+            "formatKey": "601",
+            "formatName": "lot,mfg,price"
+        },
+        {
+            "formatKey": "602",
+            "formatName": "lot,mfg,mfg"
+        },
+        {
+            "formatKey": "603",
+            "formatName": "Lot,mfg,price"
+        },
+        {
+            "formatKey": "604",
+            "formatName": "lot,mfg,mfg,exp"
+        },
+        {
+            "formatKey": "609",
+            "formatName": "item,shade,shade name, lot,exp"
+        },
+        {
+            "formatKey": "610",
+            "formatName": "Item,shade,lot,exp"
+        },
+        {
+            "formatKey": "611",
+            "formatName": "Item,shade,lot,exp"
+        },
+        {
+            "formatKey": "612",
+            "formatName": "Item,shade,lot,exp"
+        },
+        {
+            "formatKey": "613",
+            "formatName": "Item,shade,lot,exp"
+        },
+        {
+            "formatKey": "614",
+            "formatName": "Item,shade,lot,exp"
+        },
+        {
+            "formatKey": "615",
+            "formatName": "Item,shade,lot,exp"
+        },
+        {
+            "formatKey": "616",
+            "formatName": "Item,shade,lot,exp"
+        },
+        {
+            "formatKey": "617",
+            "formatName": "Item,shade,lot,exp"
+        },
+        {
+            "formatKey": "618",
+            "formatName": "Item,shade,lot,mfg"
+        },
+        {
+            "formatKey": "619",
+            "formatName": "Item,shade,lot,exp"
+        },
+        {
+            "formatKey": "620",
+            "formatName": "Item,shade,lot,exp"
+        },
+        {
+            "formatKey": "621",
+            "formatName": "Item,shade,lot,exp"
+        },
+        {
+            "formatKey": "622",
+            "formatName": "Item,shade,lot,exp"
+        },
+        {
+            "formatKey": "623",
+            "formatName": "item,sahde,lot,exp"
+        },
+        {
+            "formatKey": "624",
+            "formatName": "Item,sahde,lot,exp"
+        },
+        {
+            "formatKey": "625",
+            "formatName": "Item,shade,lot,exp"
+        },
+        {
+            "formatKey": "626",
+            "formatName": "Lot,mfg,mfg"
+        },
+        {
+            "formatKey": "628",
+            "formatName": "lot,mfg,mfg,exp"
+        },
+        {
+            "formatKey": "630",
+            "formatName": "Lot,mfg,price"
+        },
+        {
+            "formatKey": "639",
+            "formatName": "Lot,mfg,exp"
+        },
+        {
+            "formatKey": "640",
+            "formatName": "Lot,mfg,mfg"
+        },
+        {
+            "formatKey": "641",
+            "formatName": "lot,mfg,mfg,exp"
+        },
+        {
+            "formatKey": "647",
+            "formatName": "Lot,mfg"
+        },
+        {
+            "formatKey": "668",
+            "formatName": "Lot,Mfg,mfg"
+        },
+        {
+            "formatKey": "669",
+            "formatName": "Lot,mfg,mfg"
+        },
+        {
+            "formatKey": "670",
+            "formatName": "Lot,mfg,mfg"
+        },
+        {
+            "formatKey": "671",
+            "formatName": "Lot,mfg,mfg,exp"
+        },
+        {
+            "formatKey": "673",
+            "formatName": "Customer lot,lot"
+        },
+        {
+            "formatKey": "675",
+            "formatName": "Lot,mfg,exp"
+        },
+        {
+            "formatKey": "678",
+            "formatName": "Item,Shade# & name"
+        },
+        {
+            "formatKey": "680",
+            "formatName": "Item,Shade,lot,qty"
+        },
+        {
+            "formatKey": "682",
+            "formatName": "item,shade,lot,qty"
+        },
+        {
+            "formatKey": "683",
+            "formatName": "Item,shade,lot,qty"
+        },
+        {
+            "formatKey": "684",
+            "formatName": "Item,shade,lot,qty"
+        },
+        {
+            "formatKey": "685",
+            "formatName": "Item,shade,lot,qty"
+        },
+        {
+            "formatKey": "686",
+            "formatName": "Item,shade,lot,qty"
+        },
+        {
+            "formatKey": "687",
+            "formatName": "Item,shade,lot,qty"
+        },
+        {
+            "formatKey": "688",
+            "formatName": "Item,shade,lot,qty"
+        },
+        {
+            "formatKey": "689",
+            "formatName": "Item,shade,lot,qty"
+        },
+        {
+            "formatKey": "690",
+            "formatName": "Item,shade,lot,qty"
+        },
+        {
+            "formatKey": "691",
+            "formatName": "Item,shade,lot,qty"
+        },
+        {
+            "formatKey": "692",
+            "formatName": "item,shade,lot,qty"
+        },
+        {
+            "formatKey": "693",
+            "formatName": "Item,shade,lot,qty"
+        },
+        {
+            "formatKey": "740",
+            "formatName": "Item,shade"
+        },
+        {
+            "formatKey": "741",
+            "formatName": "Item,shade"
+        },
+        {
+            "formatKey": "742",
+            "formatName": "Item,shade"
+        },
+        {
+            "formatKey": "743",
+            "formatName": "Item,shade"
+        },
+        {
+            "formatKey": "744",
+            "formatName": "Item,shade"
+        },
+        {
+            "formatKey": "752",
+            "formatName": "Item,shade"
+        },
+        {
+            "formatKey": "755",
+            "formatName": "Item,shade"
+        },
+        {
+            "formatKey": "789",
+            "formatName": "Item,description,lot,qty,blank,blank"
+        },
+        {
+            "formatKey": "790",
+            "formatName": "Item,description,lot,qty,blank,blank"
+        },
+        {
+            "formatKey": "792",
+            "formatName": "Item,desription,lot,qty,blank,blank"
+        },
+        {
+            "formatKey": "793",
+            "formatName": "Item,Description,lot,qty,blank,blank"
+        },
+        {
+            "formatKey": "795",
+            "formatName": "item,description,lot,qty,blank,blank"
+        },
+        {
+            "formatKey": "796",
+            "formatName": "SKU, brand, product name, lot"
+        },
+        {
+            "formatKey": "797",
+            "formatName": "item,lot,qty,blank,blank,blank"
+        },
+        {
+            "formatKey": "800",
+            "formatName": "item,lot,qty,wt,mfg,blank"
+        },
+        {
+            "formatKey": "801",
+            "formatName": "item,lot,qty,wt,mfg,blank"
+        },
+        {
+            "formatKey": "803",
+            "formatName": "item,qty,lot,wt,blank,blank"
+        },
+        {
+            "formatKey": "804",
+            "formatName": "item,lot,qty,wt,mfg,blank"
+        },
+        {
+            "formatKey": "806",
+            "formatName": "item,lot,lot,exp,blank,blank,blank"
+        },
+        {
+            "formatKey": "807",
+            "formatName": "Lot,exp,blank,blank,blank,blank"
+        },
+        {
+            "formatKey": "808",
+            "formatName": "Item,lot,qty,blank,blank,blank,blank"
+        },
+        {
+            "formatKey": "809",
+            "formatName": "Item,shade,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "810",
+            "formatName": "Item,shade,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "811",
+            "formatName": "Item,shade,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "812",
+            "formatName": "item,shade,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "813",
+            "formatName": "Item,shade,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "814",
+            "formatName": "Item,shade,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "815",
+            "formatName": "Item,shade,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "816",
+            "formatName": "Item,shade,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "817",
+            "formatName": "Item,shade,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "818",
+            "formatName": "Item,shade,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "819",
+            "formatName": "Item,shade,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "820",
+            "formatName": "Item,shade,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "821",
+            "formatName": "Item,shade,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "822",
+            "formatName": "Item,shade,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "823",
+            "formatName": "Item,shade,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "829",
+            "formatName": "Item,qty,lot,wt,blank,blank"
+        },
+        {
+            "formatKey": "830",
+            "formatName": "Item,description,lot,qty,blank,blank"
+        },
+        {
+            "formatKey": "832",
+            "formatName": "Item,description,lot,qty,blank,blank"
+        },
+        {
+            "formatKey": "840",
+            "formatName": "Item,qty,lot,blank,blank,blank,blank"
+        },
+        {
+            "formatKey": "843",
+            "formatName": "Item,lot,qty,mfg,info,blank"
+        },
+        {
+            "formatKey": "844",
+            "formatName": "Item,qty,lot,mfg,info,blank"
+        },
+        {
+            "formatKey": "846",
+            "formatName": "Item,description,lot,qty,blank,blank"
+        },
+        {
+            "formatKey": "847",
+            "formatName": "Item,description,lot,qty,blank,blank"
+        },
+        {
+            "formatKey": "848",
+            "formatName": "Item,description,lot,qty,blank,blank"
+        },
+        {
+            "formatKey": "849",
+            "formatName": "Item,descriptioon,lot,qty,blank,blank"
+        },
+        {
+            "formatKey": "850",
+            "formatName": "Item,description,lot,qty,blank,blank"
+        },
+        {
+            "formatKey": "851",
+            "formatName": "Item,description,lot,qty,blank,blank,blank"
+        },
+        {
+            "formatKey": "852",
+            "formatName": "Item,qty,lot,mfg,blank,blank,blank"
+        },
+        {
+            "formatKey": "855",
+            "formatName": "Item,qty,lot,mfg,blank,blank"
+        },
+        {
+            "formatKey": "857",
+            "formatName": "Item,qty,lot,mfg,blank,blank,blank"
+        },
+        {
+            "formatKey": "858",
+            "formatName": "Item,lot,mfg,qty,blank,blank,blank"
+        },
+        {
+            "formatKey": "859",
+            "formatName": "Item,lot,mfg,qty,blank,blank,blank"
+        },
+        {
+            "formatKey": "860",
+            "formatName": "item,lot,mfg,qty,blank,blank"
+        },
+        {
+            "formatKey": "862",
+            "formatName": "Item,lot,mfg,qty,blank,blank,blank"
+        },
+        {
+            "formatKey": "863",
+            "formatName": "Item,qty,lot,blank,blank,blank"
+        },
+        {
+            "formatKey": "866",
+            "formatName": "Item,lot,qty,blank,blank,blank"
+        },
+        {
+            "formatKey": "867",
+            "formatName": "Item,qty,lot,description,blank"
+        },
+        {
+            "formatKey": "868",
+            "formatName": "Item,qty,lot,blank,blank,blank"
+        },
+        {
+            "formatKey": "871",
+            "formatName": "Item,lot,mfg,qty,blank,blank"
+        },
+        {
+            "formatKey": "873",
+            "formatName": "Item,qty,lot,mfg,blank,blank,blank"
+        },
+        {
+            "formatKey": "875",
+            "formatName": "Item,qty,lot,blank,blank,blank"
+        },
+        {
+            "formatKey": "876",
+            "formatName": "Item,lot,qty,blank,blank,blank"
+        },
+        {
+            "formatKey": "881",
+            "formatName": "lot,mfg"
+        },
+        {
+            "formatKey": "882",
+            "formatName": "Lot,exp"
+        },
+        {
+            "formatKey": "883",
+            "formatName": "Lot,exp,exp"
+        },
+        {
+            "formatKey": "884",
+            "formatName": "Item,qty,lot,blank,blank,blank"
+        },
+        {
+            "formatKey": "885",
+            "formatName": "Mfg,lot"
+        },
+        {
+            "formatKey": "887",
+            "formatName": "Shade, lot, sku, exp date"
+        },
+        {
+            "formatKey": "889",
+            "formatName": "Exp,lot"
+        },
+        {
+            "formatKey": "890",
+            "formatName": "Lot,exp"
+        },
+        {
+            "formatKey": "896",
+            "formatName": "Exp,lot"
+        },
+        {
+            "formatKey": "897",
+            "formatName": "Lot,exp,mfg"
+        },
+        {
+            "formatKey": "898",
+            "formatName": "Item,lot,blank,blank,blank,blank"
+        },
+        {
+            "formatKey": "901",
+            "formatName": "Exp,lot"
+        },
+        {
+            "formatKey": "915",
+            "formatName": "SKU, lot"
+        },
+        {
+            "formatKey": "918",
+            "formatName": "MFG,EXP,LOT,PRICE"
+        },
+        {
+            "formatKey": "921",
+            "formatName": "item,(L)lot#,qty"
+        },
+        {
+            "formatKey": "922",
+            "formatName": "Lot,exp"
+        },
+        {
+            "formatKey": "923",
+            "formatName": "item#,mfg,lot"
+        },
+        {
+            "formatKey": "924",
+            "formatName": "Sku, product name, lot"
+        },
+        {
+            "formatKey": "927",
+            "formatName": "item,lot,qty,wt,mfg,blank"
+        },
+        {
+            "formatKey": "929",
+            "formatName": "lot,mfg"
+        },
+        {
+            "formatKey": "930",
+            "formatName": "Lot,exp"
+        },
+        {
+            "formatKey": "932",
+            "formatName": "lot,exp date"
+        },
+        {
+            "formatKey": "933",
+            "formatName": "item,lot"
+        },
+        {
+            "formatKey": "934",
+            "formatName": "lot,exp date"
+        },
+        {
+            "formatKey": "939",
+            "formatName": "Lot,exp"
+        },
+        {
+            "formatKey": "941",
+            "formatName": "Item,mfg,lot,space for time"
+        },
+        {
+            "formatKey": "942",
+            "formatName": "lot,exp"
+        },
+        {
+            "formatKey": "950",
+            "formatName": "item,lot,mfg,exp date,mfg date"
+        },
+        {
+            "formatKey": "958",
+            "formatName": "lot,mfg,exp"
+        },
+        {
+            "formatKey": "959",
+            "formatName": "lot,exp"
+        },
+        {
+            "formatKey": "960",
+            "formatName": "Lot, mfg date,exp date"
+        },
+        {
+            "formatKey": "961",
+            "formatName": "lot,exp date"
+        },
+        {
+            "formatKey": "963",
+            "formatName": "lot,mfg date, exp date"
+        },
+        {
+            "formatKey": "965",
+            "formatName": "lot,mfg date,exp date"
+        },
+        {
+            "formatKey": "966",
+            "formatName": "lot,mfg,exp"
+        },
+        {
+            "formatKey": "967",
+            "formatName": "lot,mfg,exp"
+        },
+        {
+            "formatKey": "969",
+            "formatName": "EXP Date of oldest component and Lot#"
+        },
+        {
+            "formatKey": "971",
+            "formatName": "Sku, brand name, product name, lot, qty"
+        },
+        {
+            "formatKey": "972",
+            "formatName": "Sku, Lot, Exp date"
+        },
+        {
+            "formatKey": "973",
+            "formatName": "item#,Lot#,(NoSpace)Qty,3blanks"
+        },
+        {
+            "formatKey": "974",
+            "formatName": "item,shade code and name"
+        },
+        {
+            "formatKey": "975",
+            "formatName": "item,shade code and name,lot, qty"
+        },
+        {
+            "formatKey": "976",
+            "formatName": "item,shade # and name,qty,lot"
+        },
+        {
+            "formatKey": "977",
+            "formatName": "item,shade# and name,lot,blank,blank"
+        },
+        {
+            "formatKey": "978",
+            "formatName": "item,shade# and name,lot,qty"
+        },
+        {
+            "formatKey": "979",
+            "formatName": "Item,shade# and name,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "980",
+            "formatName": "item,shade# and name,lot,qty"
+        },
+        {
+            "formatKey": "981",
+            "formatName": "item,shade3 and name,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "982",
+            "formatName": "item,shade# and name,lot,qty"
+        },
+        {
+            "formatKey": "983",
+            "formatName": "item,shade# and name,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "984",
+            "formatName": "Item,shade# and name,lot,qty"
+        },
+        {
+            "formatKey": "985",
+            "formatName": "Item,shade# and name,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "986",
+            "formatName": "Item,shade# and name,lot,qty"
+        },
+        {
+            "formatKey": "987",
+            "formatName": "Item,shade# and name,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "988",
+            "formatName": "item,shade# and name,lot,qty"
+        },
+        {
+            "formatKey": "989",
+            "formatName": "Item,shade# and name,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "993",
+            "formatName": "item,shade# and name,lot,qty"
+        },
+        {
+            "formatKey": "994",
+            "formatName": "item,shade# and name,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "998",
+            "formatName": "Item,shade# and name,lot,qty"
+        },
+        {
+            "formatKey": "999",
+            "formatName": "Item,shade# and name,lot,blank,blank"
+        },
+        {
+            "formatKey": "1000",
+            "formatName": "item,shade# and name,lot,qty"
+        },
+        {
+            "formatKey": "1001",
+            "formatName": "item,shade# and name,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "1004",
+            "formatName": "lot,mfg"
+        },
+        {
+            "formatKey": "1006",
+            "formatName": "lot,exp"
+        },
+        {
+            "formatKey": "1008",
+            "formatName": "lot,mfg"
+        },
+        {
+            "formatKey": "1009",
+            "formatName": "item,qty,lot,blank,blank,blank"
+        },
+        {
+            "formatKey": "1011",
+            "formatName": "SKU#, Spanish Lot#, Qty"
+        },
+        {
+            "formatKey": "1012",
+            "formatName": "lot, exp"
+        },
+        {
+            "formatKey": "1013",
+            "formatName": "Lot,mfg,exp"
+        },
+        {
+            "formatKey": "1014",
+            "formatName": "lot, best before 2 digit year"
+        },
+        {
+            "formatKey": "1015",
+            "formatName": "8LOT,BESTBEFORE DD/MM/YY"
+        },
+        {
+            "formatKey": "1016",
+            "formatName": "8Lot, Mfg Date, Best Before date, 1,740 BAHT Price"
+        },
+        {
+            "formatKey": "1018",
+            "formatName": "lot, exp date"
+        },
+        {
+            "formatKey": "1019",
+            "formatName": "lot, mfg date, exp date"
+        },
+        {
+            "formatKey": "1025",
+            "formatName": "Item,shade#&name,lot,mfg"
+        },
+        {
+            "formatKey": "1026",
+            "formatName": "item,shade #&name,lot,mfg"
+        },
+        {
+            "formatKey": "1027",
+            "formatName": "item,shade#&name,lot,mfg"
+        },
+        {
+            "formatKey": "1028",
+            "formatName": "item,shade#&Name,lot,mfg"
+        },
+        {
+            "formatKey": "1029",
+            "formatName": "item,shade#&Name"
+        },
+        {
+            "formatKey": "1030",
+            "formatName": "item,shade#&Name,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "1031",
+            "formatName": "Item,shade#&Name,8lotqty"
+        },
+        {
+            "formatKey": "1033",
+            "formatName": "item.shade#&name,lot,mfg"
+        },
+        {
+            "formatKey": "1034",
+            "formatName": "item,shade#&Nmae"
+        },
+        {
+            "formatKey": "1035",
+            "formatName": "item,shade#&name"
+        },
+        {
+            "formatKey": "1036",
+            "formatName": "item,shade#&Name,lot,mfg"
+        },
+        {
+            "formatKey": "1037",
+            "formatName": "Item,shade#&Name,lot,mfg"
+        },
+        {
+            "formatKey": "1038",
+            "formatName": "item,shade#&name"
+        },
+        {
+            "formatKey": "1040",
+            "formatName": "Item,shade#&Name,lot,mfg"
+        },
+        {
+            "formatKey": "1041",
+            "formatName": "Item,shade#&Name"
+        },
+        {
+            "formatKey": "1042",
+            "formatName": "Item,shade#&Name,lot,qty"
+        },
+        {
+            "formatKey": "1043",
+            "formatName": "item,shade#&name,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "1044",
+            "formatName": "item,shade#&name,lot,mfg"
+        },
+        {
+            "formatKey": "1045",
+            "formatName": "Item,shade#&name"
+        },
+        {
+            "formatKey": "1046",
+            "formatName": "item,shade#&name,lot,mfg"
+        },
+        {
+            "formatKey": "1047",
+            "formatName": "item,shade#&name"
+        },
+        {
+            "formatKey": "1048",
+            "formatName": "item,shade#&name"
+        },
+        {
+            "formatKey": "1049",
+            "formatName": "item,shade#&name,lot,mfg"
+        },
+        {
+            "formatKey": "1050",
+            "formatName": "item,shade#&Name-lot,mfg"
+        },
+        {
+            "formatKey": "1051",
+            "formatName": "item,shade#&name"
+        },
+        {
+            "formatKey": "1052",
+            "formatName": "item,shade#&name"
+        },
+        {
+            "formatKey": "1053",
+            "formatName": "item,shade#&Name,lot,mfg"
+        },
+        {
+            "formatKey": "1054",
+            "formatName": "item,shade#&Name"
+        },
+        {
+            "formatKey": "1055",
+            "formatName": "item,shade#&name,lot,mfg"
+        },
+        {
+            "formatKey": "1057",
+            "formatName": "item,shade#&name,lot,mfg"
+        },
+        {
+            "formatKey": "1058",
+            "formatName": "item,shade#&name"
+        },
+        {
+            "formatKey": "1059",
+            "formatName": "item,shade#&name,lot,mfg"
+        },
+        {
+            "formatKey": "1060",
+            "formatName": "item,shade#&name"
+        },
+        {
+            "formatKey": "1061",
+            "formatName": "item,shade#&name,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "1062",
+            "formatName": "item,shade#&name,lot,qty"
+        },
+        {
+            "formatKey": "1064",
+            "formatName": "item,shade#&name,lot,mfg"
+        },
+        {
+            "formatKey": "1066",
+            "formatName": "item,shade#&name,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "1067",
+            "formatName": "item,shade#&name,lot,qty"
+        },
+        {
+            "formatKey": "1068",
+            "formatName": "item less num suffix,shade#&name,lot,mfg"
+        },
+        {
+            "formatKey": "1069",
+            "formatName": "item,shade#&name"
+        },
+        {
+            "formatKey": "1070",
+            "formatName": "item less num suf,shade#&name,lot,mfg"
+        },
+        {
+            "formatKey": "1073",
+            "formatName": "lot,mfg,price"
+        },
+        {
+            "formatKey": "1078",
+            "formatName": "lot,exp"
+        },
+        {
+            "formatKey": "1081",
+            "formatName": "mfg,lot"
+        },
+        {
+            "formatKey": "1085",
+            "formatName": "item,lot,qty,blank,blank,blank"
+        },
+        {
+            "formatKey": "1087",
+            "formatName": "(B)8Lot"
+        },
+        {
+            "formatKey": "1088",
+            "formatName": "Lot, Use By exp date"
+        },
+        {
+            "formatKey": "1091",
+            "formatName": "8lot,Exp,Mfg"
+        },
+        {
+            "formatKey": "1101",
+            "formatName": "SKU,shade"
+        },
+        {
+            "formatKey": "1102",
+            "formatName": "Item,lot,qty"
+        },
+        {
+            "formatKey": "1103",
+            "formatName": "Item,shade"
+        },
+        {
+            "formatKey": "1104",
+            "formatName": "item,shade code & name,lot,qty"
+        },
+        {
+            "formatKey": "1107",
+            "formatName": "Item,shade code and name,lot,qty"
+        },
+        {
+            "formatKey": "1108",
+            "formatName": "item,shade code and name,qty,lot,blank,blank"
+        },
+        {
+            "formatKey": "1111",
+            "formatName": "Item,lot,qty"
+        },
+        {
+            "formatKey": "1112",
+            "formatName": "lot,mfg"
+        },
+        {
+            "formatKey": "1115",
+            "formatName": "item,lot,mfg,blank,blank,blank"
+        },
+        {
+            "formatKey": "1123",
+            "formatName": "Exp, Lot"
+        },
+        {
+            "formatKey": "1125",
+            "formatName": "Exp,lot"
+        },
+        {
+            "formatKey": "1126",
+            "formatName": "Exp,lot"
+        },
+        {
+            "formatKey": "1127",
+            "formatName": "exp,lot"
+        },
+        {
+            "formatKey": "1128",
+            "formatName": "mfg,exp,lot,price"
+        },
+        {
+            "formatKey": "1129",
+            "formatName": "mfg,exp,lot,price"
+        },
+        {
+            "formatKey": "1130",
+            "formatName": "mfg,exp,lot,price"
+        },
+        {
+            "formatKey": "1131",
+            "formatName": "mfg,exp,lot,price"
+        },
+        {
+            "formatKey": "1133",
+            "formatName": "mfg date, exp date, 8lot, price"
+        },
+        {
+            "formatKey": "1134",
+            "formatName": "mfg date, exp date, 8lot, price"
+        },
+        {
+            "formatKey": "1135",
+            "formatName": "mfg date, exp date, 8lot, price"
+        },
+        {
+            "formatKey": "1138",
+            "formatName": "mfg date, exp date, 8lot, price"
+        },
+        {
+            "formatKey": "1140",
+            "formatName": "lot, mfg date, mfg date, exp date"
+        },
+        {
+            "formatKey": "1143",
+            "formatName": "Truvivity by Nutrilite Beauty Powder Drink"
+        },
+        {
+            "formatKey": "1144",
+            "formatName": "Truvivity by Nutriway Beauty Powder Drink"
+        },
+        {
+            "formatKey": "1146",
+            "formatName": "mfg date, exp date, 8lot, price"
+        },
+        {
+            "formatKey": "1148",
+            "formatName": "Sku, shade, shade name,lot, mfg date, retail price"
+        },
+        {
+            "formatKey": "1153",
+            "formatName": "Contract lot number, exp date"
+        },
+        {
+            "formatKey": "1164",
+            "formatName": "Sku, product desc., lot, exp date, USA, wt, qty"
+        },
+        {
+            "formatKey": "1165",
+            "formatName": "Sku, product desc., lot, exp date, USA, qty"
+        },
+        {
+            "formatKey": "1166",
+            "formatName": "Sku, product desc., lot, exp date, USA, qty"
+        },
+        {
+            "formatKey": "1169",
+            "formatName": "Sku, Phyto Clear Lem., lot, exp date, USA, wt, qty"
+        },
+        {
+            "formatKey": "1182",
+            "formatName": "mfg date, exp date, 8lot, price"
+        },
+        {
+            "formatKey": "1186",
+            "formatName": "Exp oldest component, lot"
+        },
+        {
+            "formatKey": "1187",
+            "formatName": "Sku, lot, mfg date, qty"
+        },
+        {
+            "formatKey": "1191",
+            "formatName": "mfg, exp, lot, price"
+        },
+        {
+            "formatKey": "1192",
+            "formatName": "mfg, exp, lot, price"
+        },
+        {
+            "formatKey": "1193",
+            "formatName": "mfg, exp, lot, price"
+        },
+        {
+            "formatKey": "1197",
+            "formatName": "mfg, exp, lot, price"
+        },
+        {
+            "formatKey": "1198",
+            "formatName": "mfg, exp, lot, price"
+        },
+        {
+            "formatKey": "1199",
+            "formatName": "mfg, exp, lot, price"
+        },
+        {
+            "formatKey": "1200",
+            "formatName": "mfg, exp, lot, price"
+        },
+        {
+            "formatKey": "1201",
+            "formatName": "mfg, exp, lot, price"
+        },
+        {
+            "formatKey": "1206",
+            "formatName": "lot, price, mfg, exp"
+        },
+        {
+            "formatKey": "1213",
+            "formatName": "lot, price, mfg, exp"
+        },
+        {
+            "formatKey": "1214",
+            "formatName": "lot, price, time, mfg, exp"
+        },
+        {
+            "formatKey": "1216",
+            "formatName": "lot, price, mfg, exp"
+        },
+        {
+            "formatKey": "1217",
+            "formatName": "lot, exp date"
+        },
+        {
+            "formatKey": "1220",
+            "formatName": "lot, exp date, time"
+        },
+        {
+            "formatKey": "1221",
+            "formatName": "lot, exp, time"
+        },
+        {
+            "formatKey": "1222",
+            "formatName": "lot, exp"
+        },
+        {
+            "formatKey": "1254",
+            "formatName": "item,description,lot"
+        },
+        {
+            "formatKey": "1257",
+            "formatName": "lot,mfg"
+        },
+        {
+            "formatKey": "1277",
+            "formatName": "lot,mfg,exp"
+        },
+        {
+            "formatKey": "1335",
+            "formatName": "Item,description,lot"
+        },
+        {
+            "formatKey": "1337",
+            "formatName": "Item,description,lot"
+        },
+        {
+            "formatKey": "1344",
+            "formatName": "item,brand,description,lot,qty"
+        },
+        {
+            "formatKey": "1345",
+            "formatName": "Item,Brand,description,lot,qty"
+        },
+        {
+            "formatKey": "1346",
+            "formatName": "Item,Brand,Description,lot,qty"
+        },
+        {
+            "formatKey": "1347",
+            "formatName": "item,brand,description,lot,qty"
+        },
+        {
+            "formatKey": "1348",
+            "formatName": "Item,brand,description,lot,qty"
+        },
+        {
+            "formatKey": "1349",
+            "formatName": "Item,Brand,Description,lot,qty"
+        },
+        {
+            "formatKey": "1351",
+            "formatName": "Item,brand,description,lot,qty"
+        },
+        {
+            "formatKey": "1352",
+            "formatName": "Item,Brand,description,lot,qty"
+        },
+        {
+            "formatKey": "1354",
+            "formatName": "Sku, exp date, lot"
+        },
+        {
+            "formatKey": "1355",
+            "formatName": "Item,brand,description,lot,qty"
+        },
+        {
+            "formatKey": "1356",
+            "formatName": "item,Brand,description,lot,qty"
+        },
+        {
+            "formatKey": "1361",
+            "formatName": "Customer Lot,exp,lot"
+        },
+        {
+            "formatKey": "1362",
+            "formatName": "Item,brand,description,lot,qty"
+        },
+        {
+            "formatKey": "1390",
+            "formatName": "lot,exp"
+        },
+        {
+            "formatKey": "1393",
+            "formatName": "item,brand,description,lot,qty"
+        },
+        {
+            "formatKey": "1394",
+            "formatName": "item,brand,description,lot,qty"
+        },
+        {
+            "formatKey": "1397",
+            "formatName": "Item,brand,description,lot,qty"
+        },
+        {
+            "formatKey": "1398",
+            "formatName": "lot,pricemfg"
+        },
+        {
+            "formatKey": "1401",
+            "formatName": "Ite,brand,description,lot,qty"
+        },
+        {
+            "formatKey": "1402",
+            "formatName": "Item,brand,description,lot,qty"
+        },
+        {
+            "formatKey": "1403",
+            "formatName": "Lot,price,mfg"
+        },
+        {
+            "formatKey": "1406",
+            "formatName": "Shade name & code,lot, mfg date"
+        },
+        {
+            "formatKey": "1407",
+            "formatName": "Shade Name and Code,item,lot, mfg date"
+        },
+        {
+            "formatKey": "1408",
+            "formatName": "Shade name and number,item,lot, mfg date"
+        },
+        {
+            "formatKey": "1409",
+            "formatName": "Shade name and number,item,lot,mfg date"
+        },
+        {
+            "formatKey": "1410",
+            "formatName": "Shade name and number,item,lot, mfg date"
+        },
+        {
+            "formatKey": "1411",
+            "formatName": "Shade name and number,item,lot, mfg"
+        },
+        {
+            "formatKey": "1412",
+            "formatName": "Shade name and number,item,lot, mfg date"
+        },
+        {
+            "formatKey": "1413",
+            "formatName": "item,brand,description,lot,qty,mfg"
+        },
+        {
+            "formatKey": "1414",
+            "formatName": "Item,brand,description,lot,qty,mfg"
+        },
+        {
+            "formatKey": "1423",
+            "formatName": "item,brand,description,lot,qty,mfg"
+        },
+        {
+            "formatKey": "1446",
+            "formatName": "item,description,lot"
+        },
+        {
+            "formatKey": "1447",
+            "formatName": "item,description,lot"
+        },
+        {
+            "formatKey": "1448",
+            "formatName": "item,description,lot"
+        },
+        {
+            "formatKey": "1449",
+            "formatName": "mfg,lot"
+        },
+        {
+            "formatKey": "1451",
+            "formatName": "Lot,mfg,exp"
+        },
+        {
+            "formatKey": "1452",
+            "formatName": "Mfg"
+        },
+        {
+            "formatKey": "1453",
+            "formatName": "Item,description,lot"
+        },
+        {
+            "formatKey": "1454",
+            "formatName": "item,description,lot,special handling"
+        },
+        {
+            "formatKey": "1455",
+            "formatName": "mfg"
+        },
+        {
+            "formatKey": "1456",
+            "formatName": "Item,description,lot"
+        },
+        {
+            "formatKey": "1457",
+            "formatName": "item,description,lot"
+        },
+        {
+            "formatKey": "1458",
+            "formatName": "mfg,lot"
+        },
+        {
+            "formatKey": "1459",
+            "formatName": "item,description,lot"
+        },
+        {
+            "formatKey": "1460",
+            "formatName": "item,description,lot"
+        },
+        {
+            "formatKey": "1461",
+            "formatName": "mfg"
+        },
+        {
+            "formatKey": "1462",
+            "formatName": "item,description,lot"
+        },
+        {
+            "formatKey": "1463",
+            "formatName": "lot,mfg,exp"
+        },
+        {
+            "formatKey": "1466",
+            "formatName": "Sku, qty, lot"
+        },
+        {
+            "formatKey": "1467",
+            "formatName": "mfg date, exp date, lot, price"
+        },
+        {
+            "formatKey": "1469",
+            "formatName": "sku, qty, lot, mfg date, blank, blank"
+        },
+        {
+            "formatKey": "1470",
+            "formatName": "item,description,lot,special instructions"
+        },
+        {
+            "formatKey": "1473",
+            "formatName": "item,description,lot"
+        },
+        {
+            "formatKey": "1484",
+            "formatName": "not for sale, lot mfg"
+        },
+        {
+            "formatKey": "1485",
+            "formatName": "lot, not for sale statement, mfg date"
+        },
+        {
+            "formatKey": "1487",
+            "formatName": "sku, G&H, product name, lot, qty, mfg date"
+        },
+        {
+            "formatKey": "1488",
+            "formatName": "lot, mfg date"
+        },
+        {
+            "formatKey": "1489",
+            "formatName": "lot, mfg date"
+        },
+        {
+            "formatKey": "1490",
+            "formatName": "mfg date, exp date, lot, price"
+        },
+        {
+            "formatKey": "1495",
+            "formatName": "Sku, lot, exp"
+        },
+        {
+            "formatKey": "1499",
+            "formatName": "lot, price, mfg date"
+        },
+        {
+            "formatKey": "1500",
+            "formatName": "lot, price, mfg date"
+        },
+        {
+            "formatKey": "1504",
+            "formatName": "item,brand,description,lot,qty"
+        },
+        {
+            "formatKey": "1505",
+            "formatName": "exp date, lot"
+        },
+        {
+            "formatKey": "1506",
+            "formatName": "lot, mfg date, exp date"
+        },
+        {
+            "formatKey": "1511",
+            "formatName": "shade, color, sku, lot, mfg date"
+        },
+        {
+            "formatKey": "1520",
+            "formatName": "lot, expiration date"
+        },
+        {
+            "formatKey": "1521",
+            "formatName": "sku, lot, qty"
+        },
+        {
+            "formatKey": "1526",
+            "formatName": "Customer lot, exp date, lot"
+        },
+        {
+            "formatKey": "1540",
+            "formatName": "Use by (title case) exp date, lot"
+        },
+        {
+            "formatKey": "1541",
+            "formatName": "lot, mfg date, exp date"
+        },
+        {
+            "formatKey": "1542",
+            "formatName": "exp,lot"
+        },
+        {
+            "formatKey": "1543",
+            "formatName": "Mfg date, exp date, lot"
+        },
+        {
+            "formatKey": "1546",
+            "formatName": "Exp date minus 1 day, lot"
+        },
+        {
+            "formatKey": "1549",
+            "formatName": "lot, exp date less one day"
+        },
+        {
+            "formatKey": "1550",
+            "formatName": "Sku, lot, mfg date, case quantity"
+        },
+        {
+            "formatKey": "1552",
+            "formatName": "Lot, exp date, mfg date"
+        },
+        {
+            "formatKey": "1553",
+            "formatName": "Lot, price, mfg date, exp date"
+        },
+        {
+            "formatKey": "1557",
+            "formatName": "Sku, exp date, lot"
+        },
+        {
+            "formatKey": "1562",
+            "formatName": "Sku, lot"
+        },
+        {
+            "formatKey": "1564",
+            "formatName": "exp date of the oldest component, lot"
+        },
+        {
+            "formatKey": "1566",
+            "formatName": "exp date, lot"
+        },
+        {
+            "formatKey": "1567",
+            "formatName": "lot, exp date"
+        },
+        {
+            "formatKey": "1568",
+            "formatName": "lot, exp date"
+        },
+        {
+            "formatKey": "1570",
+            "formatName": "lot, exp date minus 1 day"
+        },
+        {
+            "formatKey": "1571",
+            "formatName": "sku, lot, exp date minus 1 day"
+        },
+        {
+            "formatKey": "1573",
+            "formatName": "FGLot, oldest manufacturing date"
+        },
+        {
+            "formatKey": "1575",
+            "formatName": "Sku, qty, lot, exp date minus 1 day"
+        },
+        {
+            "formatKey": "1576",
+            "formatName": "lot, exp date minus 1 day"
+        },
+        {
+            "formatKey": "1581",
+            "formatName": "exp date, lot"
+        },
+        {
+            "formatKey": "1583",
+            "formatName": "Lot, mfg date, exp date"
+        },
+        {
+            "formatKey": "1584",
+            "formatName": "Sku, lot, mp qty, mfg date, handle with care"
+        },
+        {
+            "formatKey": "1585",
+            "formatName": "Sku, desc., lot, qty"
+        },
+        {
+            "formatKey": "1586",
+            "formatName": "exp,lot,mfg"
+        },
+        {
+            "formatKey": "1587",
+            "formatName": "SKU, desc, lot, qty"
+        },
+        {
+            "formatKey": "1589",
+            "formatName": "SKU, desc"
+        },
+        {
+            "formatKey": "1591",
+            "formatName": "Sku, Exp date, lot"
+        },
+        {
+            "formatKey": "1592",
+            "formatName": "exp date, lot"
+        },
+        {
+            "formatKey": "1596",
+            "formatName": "exp of oldes comp., lot"
+        },
+        {
+            "formatKey": "1597",
+            "formatName": "exp date of old comp., lot"
+        },
+        {
+            "formatKey": "1599",
+            "formatName": "lot, mfg date 2 lines"
+        },
+        {
+            "formatKey": "1600",
+            "formatName": "lot, exp date"
+        },
+        {
+            "formatKey": "1602",
+            "formatName": "qty,item#,lot"
+        },
+        {
+            "formatKey": "1605",
+            "formatName": "Sku, lot, mfg date, exp date"
+        },
+        {
+            "formatKey": "1608",
+            "formatName": "lot,exp"
+        },
+        {
+            "formatKey": "1609",
+            "formatName": "mfg,exp"
+        },
+        {
+            "formatKey": "1610",
+            "formatName": "item#,shade code and name"
+        },
+        {
+            "formatKey": "1612",
+            "formatName": "mfg,exp,lot,price"
+        },
+        {
+            "formatKey": "1614",
+            "formatName": "lot, exp date, mfg date"
+        },
+        {
+            "formatKey": "1615",
+            "formatName": "exp date, lot"
+        },
+        {
+            "formatKey": "1616",
+            "formatName": "lot, exp date minus 1 day"
+        },
+        {
+            "formatKey": "1617",
+            "formatName": "Sku, product name, lot, exp date minus 1 day"
+        },
+        {
+            "formatKey": "1624",
+            "formatName": "lot, mfg date, exp date"
+        },
+        {
+            "formatKey": "1628",
+            "formatName": "lot,mfg,exp"
+        },
+        {
+            "formatKey": "1630",
+            "formatName": "price, mfg date, exp date, and lot"
+        },
+        {
+            "formatKey": "1632",
+            "formatName": "exp date, lot, mfg date"
+        },
+        {
+            "formatKey": "1636",
+            "formatName": "exp date, lot"
+        },
+        {
+            "formatKey": "1637",
+            "formatName": "Sku, shade, shade name, lot, exp date"
+        },
+        {
+            "formatKey": "1638",
+            "formatName": "SKU, shade, shade name, lot, exp date"
+        },
+        {
+            "formatKey": "1639",
+            "formatName": "Sku, shade, shade name, lot, exp date"
+        },
+        {
+            "formatKey": "1640",
+            "formatName": "SKU, shade, shade name, lot, exp date"
+        },
+        {
+            "formatKey": "1641",
+            "formatName": "SKU, shade, shade name, lot, exp date"
+        },
+        {
+            "formatKey": "1642",
+            "formatName": "SKU, shade,shade name, lot, exp date"
+        },
+        {
+            "formatKey": "1643",
+            "formatName": "SKU, shade, shade name, lot, exp date"
+        },
+        {
+            "formatKey": "1644",
+            "formatName": "Sku, shade, shade name, lot, exp date"
+        },
+        {
+            "formatKey": "1645",
+            "formatName": "Sku, shade, shade name, lot, exp date"
+        },
+        {
+            "formatKey": "1646",
+            "formatName": "Sku, shade, shade name, lot, exp date"
+        },
+        {
+            "formatKey": "1647",
+            "formatName": "Sku, shade, shade name, lot, exp date"
+        },
+        {
+            "formatKey": "1648",
+            "formatName": "Sku, shade, shade name, lot, exp date"
+        },
+        {
+            "formatKey": "1650",
+            "formatName": "mfg date, exp date, lot, price"
+        },
+        {
+            "formatKey": "1651",
+            "formatName": "Sku, exp date, lot, FEI #"
+        },
+        {
+            "formatKey": "1652",
+            "formatName": "Sku, lot, qty, FEI#"
+        },
+        {
+            "formatKey": "1653",
+            "formatName": "lot, exp date"
+        },
+        {
+            "formatKey": "1655",
+            "formatName": "Sku, lot, exp date, qty"
+        },
+        {
+            "formatKey": "1658",
+            "formatName": "lot, price, mfg date, exp date"
+        },
+        {
+            "formatKey": "1660",
+            "formatName": "China Ecommerce item"
+        },
+        {
+            "formatKey": "1661",
+            "formatName": "Sku, Brand Name, Product Name, lot, qty"
+        },
+        {
+            "formatKey": "1662",
+            "formatName": "lot,exp"
+        },
+        {
+            "formatKey": "1665",
+            "formatName": "item#,descrption,lot"
+        },
+        {
+            "formatKey": "1666",
+            "formatName": "item#,description,lot#"
+        },
+        {
+            "formatKey": "1670",
+            "formatName": "Item,description,lot"
+        },
+        {
+            "formatKey": "1675",
+            "formatName": "Item,description,lot"
+        },
+        {
+            "formatKey": "1677",
+            "formatName": "item,description,lot"
+        },
+        {
+            "formatKey": "1695",
+            "formatName": "SKU less R and X, Shade # & name, lot, mfg date"
+        },
+        {
+            "formatKey": "1699",
+            "formatName": "SKU, lot, mfg date, quantity"
+        },
+        {
+            "formatKey": "1700",
+            "formatName": "Lot, exp date"
+        },
+        {
+            "formatKey": "1701",
+            "formatName": "lot, exp date"
+        },
+        {
+            "formatKey": "1703",
+            "formatName": "Sku, brand name, product name, lot, mp quantity"
+        },
+        {
+            "formatKey": "1704",
+            "formatName": "SKU, product brand, product name, lot, MP qty"
+        },
+        {
+            "formatKey": "1705",
+            "formatName": "Sku#, brand name, product name, lot, mp qty"
+        },
+        {
+            "formatKey": "1706",
+            "formatName": "Sku, brand, product name, lot, mp qty"
+        },
+        {
+            "formatKey": "1707",
+            "formatName": "Sku, brand, product name, lot, mp qty"
+        },
+        {
+            "formatKey": "1708",
+            "formatName": "Sku#, brand name, product name, lot, mp qty"
+        },
+        {
+            "formatKey": "1710",
+            "formatName": "exp of oldest,lot"
+        },
+        {
+            "formatKey": "1713",
+            "formatName": "mfg date, exp date, lot, price"
+        },
+        {
+            "formatKey": "1718",
+            "formatName": "lot,mfg date,exp date"
+        },
+        {
+            "formatKey": "1719",
+            "formatName": "lot, exp date minus 1 day"
+        },
+        {
+            "formatKey": "1726",
+            "formatName": "lot,mfg date,base sku"
+        },
+        {
+            "formatKey": "1727",
+            "formatName": "lot,spaces for foil lane, mfg date"
+        },
+        {
+            "formatKey": "1728",
+            "formatName": "lot, mfg date, exp date"
+        },
+        {
+            "formatKey": "1731",
+            "formatName": "sku#,lot#, quantity"
+        },
+        {
+            "formatKey": "1732",
+            "formatName": "sku#,name of product, lot#"
+        },
+        {
+            "formatKey": "1733",
+            "formatName": "lot, mfg date, exp date"
+        },
+        {
+            "formatKey": "1734",
+            "formatName": "Sku, Brand name, product name, lot, qty"
+        },
+        {
+            "formatKey": "1735",
+            "formatName": "SKU, brand, product name, lot, qty"
+        },
+        {
+            "formatKey": "1736",
+            "formatName": "Sku, brand, product, lot, qty"
+        },
+        {
+            "formatKey": "1737",
+            "formatName": "item, Brand, Product, lot, qty"
+        },
+        {
+            "formatKey": "1739",
+            "formatName": "SKu, Brand, Product, lot, qty"
+        },
+        {
+            "formatKey": "1740",
+            "formatName": "lot#, price, mfg date"
+        },
+        {
+            "formatKey": "1741",
+            "formatName": "lot#,mfg date, exp date, price"
+        },
+        {
+            "formatKey": "1744",
+            "formatName": "sku#,brand name,prod name,lot#, qty"
+        },
+        {
+            "formatKey": "1749",
+            "formatName": "sku#, product name, lot#"
+        },
+        {
+            "formatKey": "1750",
+            "formatName": "Sku, lot, mfg date, qty"
+        },
+        {
+            "formatKey": "1752",
+            "formatName": "Buena Park WHSE use"
+        },
+        {
+            "formatKey": "1753",
+            "formatName": "Buena Park WHSE use"
+        },
+        {
+            "formatKey": "1755",
+            "formatName": "lot#, mfg date, exp date"
+        },
+        {
+            "formatKey": "1758",
+            "formatName": "lot#,mfg date, exp date"
+        },
+        {
+            "formatKey": "1761",
+            "formatName": "Customer Lot code (Memo Lot 2"
+        },
+        {
+            "formatKey": "1762",
+            "formatName": "Customer Lot Code"
+        },
+        {
+            "formatKey": "1766",
+            "formatName": "Sku, Mfg date, 8lot, time"
+        },
+        {
+            "formatKey": "1767",
+            "formatName": "Lot#,EXP,MFG"
+        },
+        {
+            "formatKey": "1769",
+            "formatName": "lot, price,  mfg date, exp date"
+        },
+        {
+            "formatKey": "1771",
+            "formatName": "SKU,lot,mfg date,exp of the oldest cmpt"
+        },
+        {
+            "formatKey": "1779",
+            "formatName": "lot, exp date"
+        },
+        {
+            "formatKey": "1782",
+            "formatName": "Cust. Lot Code,lot"
+        },
+        {
+            "formatKey": "1783",
+            "formatName": "CustomerLot-3AMC"
+        },
+        {
+            "formatKey": "1788",
+            "formatName": "Cust.Lot Code"
+        },
+        {
+            "formatKey": "1792",
+            "formatName": "sku,lot,mfg"
+        },
+        {
+            "formatKey": "1795",
+            "formatName": "price,lot,mfg"
+        },
+        {
+            "formatKey": "1796",
+            "formatName": "price,lot,mfg&,fg,sku"
+        },
+        {
+            "formatKey": "1798",
+            "formatName": "lot, mfg, exp"
+        },
+        {
+            "formatKey": "1802",
+            "formatName": "sku,desc,lot,lot,qty,"
+        },
+        {
+            "formatKey": "1803",
+            "formatName": "lot,mfg"
+        },
+        {
+            "formatKey": "1804",
+            "formatName": "Lot,Mfg,exp"
+        },
+        {
+            "formatKey": "1805",
+            "formatName": "sku#-desc-3Lot \"8Lot\""
+        },
+        {
+            "formatKey": "1806",
+            "formatName": "sku,desc,3Lot,8Lot"
+        },
+        {
+            "formatKey": "1808",
+            "formatName": "sku,desc,3lot,8lot"
+        },
+        {
+            "formatKey": "1809",
+            "formatName": "sku,3lot,8lot,qty"
+        },
+        {
+            "formatKey": "1810",
+            "formatName": "sku,desc,3lot,8lot"
+        },
+        {
+            "formatKey": "1814",
+            "formatName": "L,customerlot"
+        },
+        {
+            "formatKey": "1817",
+            "formatName": "lot,mfgdate"
+        },
+        {
+            "formatKey": "1819",
+            "formatName": "sku#,lot#,qty"
+        },
+        {
+            "formatKey": "1822",
+            "formatName": "sku,name,lot"
+        },
+        {
+            "formatKey": "1823",
+            "formatName": "lot,mfg,exp"
+        },
+        {
+            "formatKey": "1825",
+            "formatName": "Item,desc,lot,mfg"
+        },
+        {
+            "formatKey": "1828",
+            "formatName": "exp,8lot"
+        },
+        {
+            "formatKey": "1831",
+            "formatName": "sku,name,name,8lot MP"
+        },
+        {
+            "formatKey": "1832",
+            "formatName": "7lot,mfg,exp"
+        },
+        {
+            "formatKey": "1833",
+            "formatName": "sku,name,7lot"
+        },
+        {
+            "formatKey": "1834",
+            "formatName": "sku,name,7lot"
+        },
+        {
+            "formatKey": "1835",
+            "formatName": "sku,name,7lot"
+        },
+        {
+            "formatKey": "1836",
+            "formatName": "lot"
+        },
+        {
+            "formatKey": "1838",
+            "formatName": "exp of co, lot"
+        },
+        {
+            "formatKey": "1841",
+            "formatName": "sku,lot,mfg date, qty"
+        },
+        {
+            "formatKey": "1842",
+            "formatName": "4lot,date of pkg"
+        },
+        {
+            "formatKey": "1852",
+            "formatName": "sku,qty,8lot,4lot,exp new line"
+        },
+        {
+            "formatKey": "1856",
+            "formatName": "sku,8lot,mfg date,military time"
+        },
+        {
+            "formatKey": "1857",
+            "formatName": "4lot,exp date"
+        },
+        {
+            "formatKey": "1859",
+            "formatName": "cust lot,exp"
+        },
+        {
+            "formatKey": "1860",
+            "formatName": "8lot,expiry"
+        },
+        {
+            "formatKey": "1861",
+            "formatName": "4Lot,exp"
+        },
+        {
+            "formatKey": "1866",
+            "formatName": "lot, mfg date"
+        },
+        {
+            "formatKey": "1867",
+            "formatName": "lot,exp"
+        },
+        {
+            "formatKey": "1872",
+            "formatName": "sku,name,name,8lot,qty,Mfg Date"
+        },
+        {
+            "formatKey": "1873",
+            "formatName": "sku,name,name,8lot,qty"
+        },
+        {
+            "formatKey": "1878",
+            "formatName": "sku,8lot-mfg date"
+        },
+        {
+            "formatKey": "1879",
+            "formatName": "price,lot,exp"
+        },
+        {
+            "formatKey": "1881",
+            "formatName": "price,lot,mfg,exp,sku"
+        },
+        {
+            "formatKey": "1882",
+            "formatName": "price,lot,mfg and exp date,sku no revision"
+        },
+        {
+            "formatKey": "1883",
+            "formatName": "price,lot,exp"
+        },
+        {
+            "formatKey": "1887",
+            "formatName": "sku,prod,name,lot,qty"
+        },
+        {
+            "formatKey": "1888",
+            "formatName": "sku,prod,name,lot,qty"
+        },
+        {
+            "formatKey": "1889",
+            "formatName": "sku,prod,name,lot,quantity"
+        },
+        {
+            "formatKey": "1890",
+            "formatName": "sku,prod,name,lot,quant"
+        },
+        {
+            "formatKey": "1891",
+            "formatName": "sku,prod,name,lot,master pack"
+        },
+        {
+            "formatKey": "1892",
+            "formatName": "sku,lot,name,mfg,exp,qty"
+        },
+        {
+            "formatKey": "1893",
+            "formatName": "sku,name,7Lot,qty"
+        },
+        {
+            "formatKey": "1894",
+            "formatName": "sku,name,name,lot, qty"
+        },
+        {
+            "formatKey": "1897",
+            "formatName": "lot,mfg date, exp date"
+        },
+        {
+            "formatKey": "1900",
+            "formatName": "mfg date, exp date 2 year, lot"
+        },
+        {
+            "formatKey": "1901",
+            "formatName": " mfg date co, exp date co 2 yr,lot"
+        },
+        {
+            "formatKey": "1902",
+            "formatName": "sku,prod,name,lot,master pack"
+        },
+        {
+            "formatKey": "1903",
+            "formatName": "mfg date,exp date,8lot,price"
+        },
+        {
+            "formatKey": "1904",
+            "formatName": "lot,exp,mfg date"
+        },
+        {
+            "formatKey": "1905",
+            "formatName": "Name,qty,sku,lot,mfg date"
+        },
+        {
+            "formatKey": "1906",
+            "formatName": "lot,exp date no period,mfg date no period"
+        },
+        {
+            "formatKey": "1907",
+            "formatName": "customer lot,AMC"
+        },
+        {
+            "formatKey": "1908",
+            "formatName": "sku, product name, lot"
+        },
+        {
+            "formatKey": "1918",
+            "formatName": "lot,exp to 2 yr,mfg date"
+        },
+        {
+            "formatKey": "1919",
+            "formatName": "lot,exp 2 year co,mfg date"
+        },
+        {
+            "formatKey": "1924",
+            "formatName": "lot,mfg,exp"
+        },
+        {
+            "formatKey": "1925",
+            "formatName": "mfg date, exp date,lot, 1765 Baht"
+        },
+        {
+            "formatKey": "1926",
+            "formatName": " lot, mfg date, exp date"
+        },
+        {
+            "formatKey": "1927",
+            "formatName": "mfg date, exp date -1 day,8Lot"
+        },
+        {
+            "formatKey": "1928",
+            "formatName": "mfg date(co),exp date (-1)(co)-8Lot"
+        },
+        {
+            "formatKey": "1929",
+            "formatName": "sku,prod name,lot"
+        },
+        {
+            "formatKey": "1930",
+            "formatName": "Label for cases where no logic exists"
+        },
+        {
+            "formatKey": "1931",
+            "formatName": "mfg date, exp date,lot"
+        },
+        {
+            "formatKey": "1932",
+            "formatName": "mfg date, exp date (2.5), lot"
+        },
+        {
+            "formatKey": "1935",
+            "formatName": "sku,prod,name,lot,MP no date"
+        },
+        {
+            "formatKey": "1937",
+            "formatName": "sku,name,7Lot,temp warning"
+        },
+        {
+            "formatKey": "1939",
+            "formatName": "expiry (co), 8Lot"
+        },
+        {
+            "formatKey": "1940",
+            "formatName": "expiry (co), 8Lot"
+        },
+        {
+            "formatKey": "1941",
+            "formatName": "sku,mfg date,exp date,lot"
+        },
+        {
+            "formatKey": "1944",
+            "formatName": "sku,prod name,7Lot"
+        },
+        {
+            "formatKey": "1945",
+            "formatName": "sku, product name, lot"
+        },
+        {
+            "formatKey": "1946",
+            "formatName": "sku, family,prod name,lot,qty"
+        },
+        {
+            "formatKey": "1948",
+            "formatName": "HRB - Prod name, size, HRB SKU, cust lot, UPC"
+        },
+        {
+            "formatKey": "1949",
+            "formatName": "lot,price,mfg date,exp date"
+        },
+        {
+            "formatKey": "1952",
+            "formatName": " lot,mfg date"
+        },
+        {
+            "formatKey": "1954",
+            "formatName": "sku,mfg date"
+        },
+        {
+            "formatKey": "1956",
+            "formatName": "sku,family,prod name,lot,quantity"
+        },
+        {
+            "formatKey": "1957",
+            "formatName": "sku,prod,name,lot,MP"
+        },
+        {
+            "formatKey": "1958",
+            "formatName": "HRB - Prod name, size, HRB SKU, cust lot, UPC"
+        },
+        {
+            "formatKey": "1959",
+            "formatName": "Zest - Product, size, HRB SKU, lot UPC"
+        },
+        {
+            "formatKey": "1961",
+            "formatName": "Zest - Product, name,HRB SKU,lot,UPC"
+        },
+        {
+            "formatKey": "1962",
+            "formatName": "Zest - Product name, HRB item,lot, UPC"
+        },
+        {
+            "formatKey": "1964",
+            "formatName": "Zest - Prod,Name,HRB SKU,Lot,UPC"
+        },
+        {
+            "formatKey": "1965",
+            "formatName": "Prod,name,HRB SKU,Lot,UPC"
+        },
+        {
+            "formatKey": "1967",
+            "formatName": "sku,mfg date,exp date,lot"
+        },
+        {
+            "formatKey": "1968",
+            "formatName": "sku,lot,mfg date, exp date, quantity"
+        },
+        {
+            "formatKey": "1970",
+            "formatName": "sku,family,name,lot,qty,mfg date"
+        },
+        {
+            "formatKey": "1972",
+            "formatName": "sku,product,name, lot,qty,mfg date"
+        },
+        {
+            "formatKey": "1973",
+            "formatName": "sku,prod,name,lot,freeze"
+        },
+        {
+            "formatKey": "1976",
+            "formatName": "INDIA prod name,sku,lot,mfg date"
+        },
+        {
+            "formatKey": "1977",
+            "formatName": "sku,lot"
+        },
+        {
+            "formatKey": "1978",
+            "formatName": "sku,prod,name,lot,qty,mfg date"
+        },
+        {
+            "formatKey": "1979",
+            "formatName": "sku,prod name,lot,exp,mfg date,exp,cco,weight,qty"
+        },
+        {
+            "formatKey": "1981",
+            "formatName": "HRB - Prod name, size,HRB sku, cust lot,upc"
+        },
+        {
+            "formatKey": "1982",
+            "formatName": "lot,price,mfg date"
+        },
+        {
+            "formatKey": "1983",
+            "formatName": "lot, price, mfg date"
+        },
+        {
+            "formatKey": "1985",
+            "formatName": "lot,price,mfg date"
+        },
+        {
+            "formatKey": "1986",
+            "formatName": "lot,price,mfg date"
+        },
+        {
+            "formatKey": "1987",
+            "formatName": "lot,price,mfg date"
+        },
+        {
+            "formatKey": "1988",
+            "formatName": "mfg date, exp date,lot,price"
+        },
+        {
+            "formatKey": "1989",
+            "formatName": "mfg date,exp date,lot, price 1,315  Baht"
+        },
+        {
+            "formatKey": "1990",
+            "formatName": "mfg date, exp date, lot, price 1,730 Baht"
+        },
+        {
+            "formatKey": "1991",
+            "formatName": "price,mfg date,exp date,lot"
+        },
+        {
+            "formatKey": "1992",
+            "formatName": "mfg date,exp date,lot, price 3,565 Baht"
+        },
+        {
+            "formatKey": "1993",
+            "formatName": "price,mfg date,exp date,lot"
+        },
+        {
+            "formatKey": "1994",
+            "formatName": "mfg date, exp date, lot 880 Baht"
+        },
+        {
+            "formatKey": "1995",
+            "formatName": " mfg date, exp date, lot, price 2,210 Baht"
+        },
+        {
+            "formatKey": "1996",
+            "formatName": "mfg date,exp date,lot, price 1,900 Baht"
+        },
+        {
+            "formatKey": "1997",
+            "formatName": "mfg date, exp date, lot, price 1,080 Baht"
+        },
+        {
+            "formatKey": "1998",
+            "formatName": "mfg date, exp date, lot, price 1,490 Baht"
+        },
+        {
+            "formatKey": "1999",
+            "formatName": "mfg date exp date, lot, price 660 Baht"
+        },
+        {
+            "formatKey": "2000",
+            "formatName": "mfg date, exp date, lot, price 1,200 Baht"
+        },
+        {
+            "formatKey": "2001",
+            "formatName": "mfg date, exp date, 8Lot, price 1,055 Baht"
+        },
+        {
+            "formatKey": "2002",
+            "formatName": "mfg date, exp date, lot, price 1,470 Baht"
+        },
+        {
+            "formatKey": "2003",
+            "formatName": "mfg date, exp date,lot, price 1,300 Baht"
+        },
+        {
+            "formatKey": "2004",
+            "formatName": "mfg date, exp date, lot, price 640 Baht"
+        },
+        {
+            "formatKey": "2005",
+            "formatName": "mfg date, exp date, lot, price 1,125 Baht"
+        },
+        {
+            "formatKey": "2006",
+            "formatName": "mfg date, exp date, lot, price 1,495 Baht"
+        },
+        {
+            "formatKey": "2007",
+            "formatName": "sku, qty lot"
+        },
+        {
+            "formatKey": "2008",
+            "formatName": "sku,prod,name,lot, qty"
+        },
+        {
+            "formatKey": "2009",
+            "formatName": "mfg date, exp date,lot,price  1,400 Baht"
+        },
+        {
+            "formatKey": "2010",
+            "formatName": "mfg date, exp date, lot, price 680 Baht"
+        },
+        {
+            "formatKey": "2011",
+            "formatName": "mfg date, exp date,lot,price 1,460 Baht"
+        },
+        {
+            "formatKey": "2012",
+            "formatName": " mfg date, exp date,lot,price 1,555 Baht"
+        },
+        {
+            "formatKey": "2013",
+            "formatName": "mfg date, exp date, lot, price 1,170 Baht"
+        },
+        {
+            "formatKey": "2014",
+            "formatName": "lot, mfg date co, exp date co"
+        },
+        {
+            "formatKey": "2015",
+            "formatName": "lot, price 1,520 Baht,mfg date, exp date"
+        },
+        {
+            "formatKey": "2016",
+            "formatName": "lot, price 2,300 Baht, mfg date, bb date"
+        },
+        {
+            "formatKey": "2017",
+            "formatName": "lot, price 1,460  baht, mfg date, exp date"
+        },
+        {
+            "formatKey": "2018",
+            "formatName": "lot, price 1,210 baht, mfg date, best before date"
+        },
+        {
+            "formatKey": "2019",
+            "formatName": "lot, price 770 baht, mfg date, best before date"
+        },
+        {
+            "formatKey": "2020",
+            "formatName": "lot, price 1,385 baht, mfg date, best before date"
+        },
+        {
+            "formatKey": "2021",
+            "formatName": "lot, mfg date, best before date, price 1,530 baht"
+        },
+        {
+            "formatKey": "2022",
+            "formatName": "lot, mfg date, exp date, price 1,630 baht"
+        },
+        {
+            "formatKey": "2023",
+            "formatName": "lot, exp date, mfg date"
+        },
+        {
+            "formatKey": "2024",
+            "formatName": "qty,sku, lot"
+        },
+        {
+            "formatKey": "2026",
+            "formatName": "sku,lot,qty,EFI number"
+        },
+        {
+            "formatKey": "2027",
+            "formatName": "sku,lot,mfg date"
+        },
+        {
+            "formatKey": "2030",
+            "formatName": "lot"
+        },
+        {
+            "formatKey": "2032",
+            "formatName": "sku,mfg date, exp date,lot, COO,weight,quantity"
+        },
+        {
+            "formatKey": "2034",
+            "formatName": "sku#,product name, lot#, master pack qty, mfg date"
+        },
+        {
+            "formatKey": "2035",
+            "formatName": "lot, mfg date, exp date"
+        },
+        {
+            "formatKey": "2036",
+            "formatName": "HRB - Prod name, size, HRB SKU, cust lot, UPC"
+        },
+        {
+            "formatKey": "2037",
+            "formatName": "HRB - Prod name, size, HRB SKU, cust lot, UPC"
+        },
+        {
+            "formatKey": "2038",
+            "formatName": "HRB - Prod name, size, HRB SKU, cust lot, UPC"
+        },
+        {
+            "formatKey": "2039",
+            "formatName": "HRB - Prod name, size, HRB SKU, cust lot, UPC"
+        },
+        {
+            "formatKey": "2041",
+            "formatName": "lot, price, mfg date, exp date"
+        },
+        {
+            "formatKey": "2043",
+            "formatName": "lot, price, date"
+        },
+        {
+            "formatKey": "2044",
+            "formatName": "sku,lot,export statement,qty"
+        },
+        {
+            "formatKey": "2049",
+            "formatName": "price,lot,exp"
+        },
+        {
+            "formatKey": "2050",
+            "formatName": "SKU# no rev-shade"
+        },
+        {
+            "formatKey": "2051",
+            "formatName": "price,lot,mfg & exp date, SKU minus revision no"
+        },
+        {
+            "formatKey": "2052",
+            "formatName": "SKU# no rev - shade"
+        },
+        {
+            "formatKey": "2053",
+            "formatName": "lot,price,mfg date, exp date"
+        },
+        {
+            "formatKey": "2055",
+            "formatName": "lot,exp"
+        },
+        {
+            "formatKey": "2056",
+            "formatName": "price,mfg date,lot"
+        },
+        {
+            "formatKey": "2059",
+            "formatName": "Lot#, Mfg"
+        },
+        {
+            "formatKey": "2060",
+            "formatName": "Lot#,Mfg,Exp"
+        },
+        {
+            "formatKey": "2061",
+            "formatName": "Item,qty,lot"
+        },
+        {
+            "formatKey": "2062",
+            "formatName": "customer lot,AMC"
+        },
+        {
+            "formatKey": "2063",
+            "formatName": "sku,lot,mfg date,quantity"
+        },
+        {
+            "formatKey": "2065",
+            "formatName": "Item,brand,description,lot,qty,date"
+        },
+        {
+            "formatKey": "2067",
+            "formatName": "lot, exp"
+        },
+        {
+            "formatKey": "2068",
+            "formatName": "sku#,exp date,lot#"
+        },
+        {
+            "formatKey": "2069",
+            "formatName": "L\"7Lot-\"FAB \"MM/YY-\"VAL/VTO \"MM/YY\""
+        },
+        {
+            "formatKey": "2070",
+            "formatName": "sku,mfg date,exp date,lot,made in USA 1072 sticks"
+        },
+        {
+            "formatKey": "2071",
+            "formatName": "expiry, lot"
+        },
+        {
+            "formatKey": "2072",
+            "formatName": "expiry of co, lot"
+        },
+        {
+            "formatKey": "2074",
+            "formatName": "sku,lot,qty,FEI number"
+        },
+        {
+            "formatKey": "2075",
+            "formatName": "sku,mfg date,exp date,8Lot"
+        },
+        {
+            "formatKey": "2076",
+            "formatName": "sku,lot,mfg date, exp date, qty"
+        },
+        {
+            "formatKey": "2078",
+            "formatName": "mfg date, exp date (co),lot,price 4490 Baht"
+        },
+        {
+            "formatKey": "2081",
+            "formatName": "sku,product name,lot,exp,country,weight,qty"
+        },
+        {
+            "formatKey": "2082",
+            "formatName": "sku,prod,name,lot,qty,mfg date"
+        },
+        {
+            "formatKey": "2083",
+            "formatName": "FIX sku,prod,name,lot,mfg date, exp date"
+        },
+        {
+            "formatKey": "2084",
+            "formatName": " sku,lot,qty,mfg date"
+        },
+        {
+            "formatKey": "2085",
+            "formatName": "EXP co-product, lot"
+        },
+        {
+            "formatKey": "2087",
+            "formatName": "lot,lane number,mfg date"
+        },
+        {
+            "formatKey": "2088",
+            "formatName": "mfg date, exp date, lot, price 530 Baht"
+        },
+        {
+            "formatKey": "2091",
+            "formatName": "expiry, lot"
+        },
+        {
+            "formatKey": "2092",
+            "formatName": "expiry of co, lot"
+        },
+        {
+            "formatKey": "2093",
+            "formatName": "qty,sku,lot,mfg date"
+        },
+        {
+            "formatKey": "2095",
+            "formatName": "FIX lot, expiry"
+        },
+        {
+            "formatKey": "2096",
+            "formatName": "mfg date,lot,price"
+        },
+        {
+            "formatKey": "2098",
+            "formatName": "FIX price,lot,mfg date, exp date, sku minus rev"
+        },
+        {
+            "formatKey": "2102",
+            "formatName": "lot,mfg date, exp date"
+        },
+        {
+            "formatKey": "2106",
+            "formatName": "lot,mfg date"
+        },
+        {
+            "formatKey": "2107",
+            "formatName": "sku,lot,qty"
+        },
+        {
+            "formatKey": "2108",
+            "formatName": "Exp, lot"
+        },
+        {
+            "formatKey": "2109",
+            "formatName": "lot,exp,mfg date"
+        },
+        {
+            "formatKey": "2110",
+            "formatName": " SPA lot,exp,mfg,registration"
+        },
+        {
+            "formatKey": "2111",
+            "formatName": "sku,lot,qty"
+        },
+        {
+            "formatKey": "2114",
+            "formatName": "Price, MFG, EXP, Lot"
+        },
+        {
+            "formatKey": "2118",
+            "formatName": "lot, exp"
+        },
+        {
+            "formatKey": "2119",
+            "formatName": "sku, prod name,lot freeze,shipping"
+        },
+        {
+            "formatKey": "2120",
+            "formatName": "HRB - Prod name, size,SKU,lot,UPC"
+        },
+        {
+            "formatKey": "2121",
+            "formatName": "sku,brand, prod name,lot,quantity"
+        },
+        {
+            "formatKey": "2122",
+            "formatName": "mfg date,lot"
+        },
+        {
+            "formatKey": "2123",
+            "formatName": "sku,prod,name,lot,qty"
+        },
+        {
+            "formatKey": "2124",
+            "formatName": "sku,prod,name,lot,qty"
+        },
+        {
+            "formatKey": "2125",
+            "formatName": "sku,lot,qty,FEI number"
+        },
+        {
+            "formatKey": "2126",
+            "formatName": "solarcaine spaced down"
+        },
+        {
+            "formatKey": "2127",
+            "formatName": "HRB - prod name,size,sku,lot,number"
+        },
+        {
+            "formatKey": "2128",
+            "formatName": "HRB - Prod name, size,SKU,lot,UPC"
+        },
+        {
+            "formatKey": "2129",
+            "formatName": "sku,prod name, lot"
+        },
+        {
+            "formatKey": "2130",
+            "formatName": "lot,expiry 3 yr,mfg date"
+        }
+    ]
+}
