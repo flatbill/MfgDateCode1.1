@@ -1,0 +1,84 @@
+{
+    "Items": [
+        {
+            "contentId": "50",
+            "contentName": "Lot Number"
+        },
+        {
+            "contentId": "300",
+            "contentName": "35moFromPkgDate"
+        },
+        {
+            "contentId": "40",
+            "contentName": "SKU Number"
+        },
+        {
+            "contentId": "90",
+            "contentName": "Expiration Date (C3)"
+        },
+        {
+            "contentId": "240",
+            "contentName": "Exp Date 3yr Compare2ExpDate"
+        },
+        {
+            "contentId": "1",
+            "contentName": "Literal"
+        },
+        {
+            "contentId": "180",
+            "contentName": "Expiration Date -1 day (CO)"
+        },
+        {
+            "contentId": "80",
+            "contentName": "Expiration Date (C2)"
+        },
+        {
+            "contentId": "60",
+            "contentName": "Expiration Date (CO)"
+        },
+        {
+            "contentId": "30",
+            "contentName": "Master Pack Quantity"
+        },
+        {
+            "contentId": "41",
+            "contentName": "SKU Suffix                                        "
+        },
+        {
+            "contentId": "100",
+            "contentName": "Manufacturing Date (CO)"
+        },
+        {
+            "contentId": "260",
+            "contentName": "Exp Date 2.5yr Compare2ExpDate"
+        },
+        {
+            "contentId": "150",
+            "contentName": "Expiration Date -1 day"
+        },
+        {
+            "contentId": "210",
+            "contentName": "Exp Date 2yr Compare2OldTablet"
+        },
+        {
+            "contentId": "70",
+            "contentName": "Expiration Date (C1)"
+        },
+        {
+            "contentId": "20",
+            "contentName": "Manufacture Date"
+        },
+        {
+            "contentId": "160",
+            "contentName": "Cust. Lot Code                                    "
+        },
+        {
+            "contentId": "42",
+            "contentName": "SKU Minus Revision                                "
+        },
+        {
+            "contentId": "220",
+            "contentName": "Exp Date 2yr Compare2ExpDate"
+        }
+    ]
+}
